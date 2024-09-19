@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Derek Crawford
-- 👀 I’m interested in all things automation. 
-- 🌱 I’m currently learning primarily Gen2 RPA in Robocorp's ecosystem and deep learning concepts 
-- 💞️ I’m looking to collaborate on business process automation projects
+- Hi, I’m Derek Crawford
+- I’m interested in all things automation. 
+- I’m currently learning primarily deep learning concepts via Fast.ai
+- I’m looking to collaborate on business process automation projects, to help SMB and fight consolidation
 - If you'd like to reach out to me, Linkedin is always good https://www.linkedin.com/in/derek-crawford-49883225a/
 
 <!---
